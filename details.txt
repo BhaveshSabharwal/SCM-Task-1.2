@@ -2,3 +2,4 @@ Name: Bhavesh Sabharwal
 Batch: 2023 - 2027
 College: Chitkara University
 Group: G 17
+Skills: C, C++, Python, HTML, CSS, JS
